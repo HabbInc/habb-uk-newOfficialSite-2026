@@ -76,7 +76,7 @@ const footerData = {
     websites: {
         name: "Websites",
         links: [
-            { name: "habb.lk", url: "https://habb.ca" },
+            { name: "habb.ca", url: "https://habb.ca" },
             { name: "habb.lk", url: "https://habb.lk" },
             { name: "habblanka.com", url: "https://habblanka.com" },
             { name: "habbgate.com", url: "https://habbgate.com" }
@@ -88,12 +88,13 @@ const footerData = {
         email: "info@habb.uk",
         phone: "+44 7354 274756",
         phones: [
+            "+44 73 5427 4756"
             "+94 70 1111 055",
             "+94 77 4704 219",
             "+94 71 0111 484"
         ]
     },
-    copyright: "©2026 HABB LANKA (PVT) LTD. All Rights Reserved"
+    copyright: "©2026 HABB Inc. All Rights Reserved"
 };
 
 export const GET = async () => {
