@@ -76,6 +76,7 @@ const footerData = {
     websites: {
         name: "Websites",
         links: [
+            { name: "habb.lk", url: "https://habb.ca" },
             { name: "habb.lk", url: "https://habb.lk" },
             { name: "habblanka.com", url: "https://habblanka.com" },
             { name: "habbgate.com", url: "https://habbgate.com" }
@@ -83,16 +84,16 @@ const footerData = {
     },
     contactDetails: {
         name:"Get In Touch",
-        address1: "40 Linden Rd, Luton LU4 9QZ, United Kingdom",
-        email: "info@habblanka.com",
-        phone: "+94 70 1111 055",
+        address1: "212 Higham Lane, Nuneaton CV11 6AS, United Kingdom",
+        email: "info@habb.uk",
+        phone: "+44 7354 274756",
         phones: [
             "+94 70 1111 055",
             "+94 77 4704 219",
             "+94 71 0111 484"
         ]
     },
-    copyright: "©2026 HABB (PVT) LTD. All Rights Reserved"
+    copyright: "©2026 HABB LANKA (PVT) LTD. All Rights Reserved"
 };
 
 export const GET = async () => {
