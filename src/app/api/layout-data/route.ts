@@ -86,7 +86,7 @@ const footerData = {
         name:"Get In Touch",
         address1: "212 Higham Lane, Nuneaton CV11 6AS, United Kingdom",
         email: "info@habb.uk",
-        phone: "+44 7354 274756",
+        phone: "+44 73 5427 4756",
         phones: [
             "+44 73 5427 4756"
             "+94 70 1111 055",
